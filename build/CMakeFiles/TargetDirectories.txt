@@ -1,0 +1,4 @@
+C:/Users/hariv/OneDrive/Desktop/simple shell/build/CMakeFiles/hsh.dir
+C:/Users/hariv/OneDrive/Desktop/simple shell/build/CMakeFiles/test_parser.dir
+C:/Users/hariv/OneDrive/Desktop/simple shell/build/CMakeFiles/edit_cache.dir
+C:/Users/hariv/OneDrive/Desktop/simple shell/build/CMakeFiles/rebuild_cache.dir
